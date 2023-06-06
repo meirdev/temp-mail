@@ -5,4 +5,6 @@ Backend to website that provides temporary email addresses.
 
 ## Architecture
 
-![Architecture](./assets/aws-diagram.svg)
+<p align="center">
+    <img src="./assets/aws-diagram.svg" height="300" style="background: #ffffff" />
+</p>
